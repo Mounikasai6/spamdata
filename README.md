@@ -26,7 +26,7 @@ Spam detection is a classic problem in text classification. This project impleme
 ## Data Loading and Exploration
 
 ```python
-df = pd.read_csv(r"C:\Users\arjun\Downloads\archive (3)\spam.csv", encoding="ISO-8859-1")
+df = pd.read_csv(r"C:\Users\shanm\Downloads\spam (1).csv", encoding="ISO-8859-1")
 ```
 
 **Why**: We begin by loading the dataset from a CSV file using pandas. The specific encoding (ISO-8859-1) is specified to handle special characters that might be present in text messages.
